@@ -1,0 +1,21 @@
+{
+  "name": "WAAPI-Demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel src/index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MorookaKotaro/WAAPI-Demo.git"
+  },
+  "keywords": [],
+  "author": "moro <gainmoro@gmail.com> (https://twitter.com/mo__ro__)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MorookaKotaro/WAAPI-Demo/issues"
+  },
+  "homepage": "https://github.com/MorookaKotaro/WAAPI-Demo#readme"
+}
